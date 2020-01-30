@@ -18,7 +18,7 @@ A set of principles and practices that ensure high quality through the complete 
 * Evaluate and improve by rising the data governance maturity level phase by phase
 * Acknowledge gains and build on forward momentum in order to secure stakeholder continuous commitment and a broad organizational support
 
-# Data Governance Team
+# Team Members
 * **Manager, Master Data Governance**: Leads the design, implementation and continued maintenance of Master Data Control and governance across the corporation.
 * **Solution and Data Governance Architect**: Provides oversight for solution designs and implementations.
 * **Data Analyst**: Uses analytics to determine trends and review information
