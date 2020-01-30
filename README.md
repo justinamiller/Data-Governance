@@ -17,3 +17,10 @@ A set of principles and practices that ensure high quality through the complete 
 * Optimize staff effectiveness by providing data assets that meet the desired data quality thresholds
 * Evaluate and improve by rising the data governance maturity level phase by phase
 * Acknowledge gains and build on forward momentum in order to secure stakeholder continuous commitment and a broad organizational support
+
+# Data Governance Team
+* **Manager, Master Data Governance**: Leads the design, implementation and continued maintenance of Master Data Control and governance across the corporation.
+* **Solution and Data Governance Architect**: Provides oversight for solution designs and implementations.
+* **Data Analyst**: Uses analytics to determine trends and review information
+* **Data Strategist**: Develops and executes trend-pattern analytics plans
+* **Compliance specialist**: Ensure adherence to required standards (legal, defense, medical, privacy)
