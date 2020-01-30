@@ -4,6 +4,13 @@ A set of principles and practices that ensure high quality through the complete 
 # Data Governance Pillars
 ![Data Governance Pillars](./src/data-gov-pillars.jpg)
 
+
+# Intelligent Data
+* **Data Insight**: Access insights to support decision making forecasting and process automation.
+* **Data Strategy**: Build data literacy into the organizational vision, strategy and core processes.
+* **Data Platform Engineering**: Ability to design and build data platforms, collect, stream and manage enterprise-wide data.
+* **Machine Learning**: Leverage machine learning to take autonomous actions from data insights.
+
 # Goals
 
 * Make consistent, confident business decisions based on trustworthy data aligned with all the various purposes for the use of the data assets within the enterprise
