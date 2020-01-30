@@ -24,3 +24,11 @@ A set of principles and practices that ensure high quality through the complete 
 * **Data Analyst**: Uses analytics to determine trends and review information
 * **Data Strategist**: Develops and executes trend-pattern analytics plans
 * **Compliance specialist**: Ensure adherence to required standards (legal, defense, medical, privacy)
+
+
+# Framework
+A data governance framework is a set of data rules, organizational role delegations and processes aimed at bringing everyone on the organization on the same page.
+
+There are many data governance frameworks out there. As an example, here is one from The Data Governance Institute.
+![Data Governance Framework](./src/DataGovernanceFramework.jpg)
+<sub>_The DGI Data Governance Framework © The Data Governance Institute_</sub>
