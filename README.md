@@ -29,6 +29,6 @@ A set of principles and practices that ensure high quality through the complete 
 # Framework
 A data governance framework is a set of data rules, organizational role delegations and processes aimed at bringing everyone on the organization on the same page.
 
-There are many data governance frameworks out there. As an example, here is one from The Data Governance Institute.
+There are many data governance frameworks out there. As an example, here is one from the [data governance institute](http://www.datagovernance.com/the-dgi-framework/).
 ![Data Governance Framework](./src/DataGovernanceFramework.jpg)
 <sub>_The DGI Data Governance Framework © The Data Governance Institute_</sub>
