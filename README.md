@@ -1,7 +1,7 @@
 # Data Governance
 A set of principles and practices that ensure high quality through the complete lifecycle of your data.
 
-# Data Governance Pillars
+# Four Pillars
 ![Data Governance Pillars](./src/data-gov-pillars.jpg)
 
 
