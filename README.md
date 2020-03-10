@@ -1,5 +1,7 @@
 # Data Governance
-A set of principles and practices that ensure high quality through the complete lifecycle of your data.
+A set of principles and practices that ensure high quality through the complete lifecycle of your data. 
+
+Building out a comprehensive view to know where and how data is used. Build a data inventory and implement a governing process to maintain the integrity of your data. Ensure your data is trusted and used to comply with data and privacy regulations.
 
 # Four Pillars
 ![Data Governance Pillars](./src/data-gov-pillars.jpg)
